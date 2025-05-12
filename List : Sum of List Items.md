@@ -11,8 +11,10 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
+```
 l=[1,2,-8]
 print(sum(l))
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/e68f745f-e070-4061-be6c-dc9183b8f3d9)
 
