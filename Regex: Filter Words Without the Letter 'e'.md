@@ -15,6 +15,7 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
+```
 import re
 items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner'] 
 l=[] 
@@ -25,6 +26,7 @@ for i in items:
     else:
         l.append(i)#'They ate 5 apples and 5 orange
 print(l)
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/c1cccac6-c217-45df-a226-9668dc5c051b)
 
