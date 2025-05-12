@@ -11,11 +11,13 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
+```
 a=eval(input())
 b=bool('8' in a)
 c=bool('n' not in a)
 print(c)
 print(b)
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/cc8b2cf9-93cb-493c-b732-a743307ae326)
 
